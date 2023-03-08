@@ -1,4 +1,4 @@
-# Tugas Akhir
+# [CSIM603026] Enterprise Application Programming Final Group Assignment
 ## Authors
 * **Raihansyah Yoga Adhitama** - *2006483031* - *B*
 * **Dominikus Kern Bunardi** - *2006464423* - *B*
@@ -6,10 +6,16 @@
 * **Ahmad Aminullah Alfiyanto** - *1906399064* - *B*
 * **Alfina Azaria** - *2006482773* - *B*
 
----
-**Kontrak Tahap 1 Tugas Akhir**
+## About
+RumahSehat is a web application that can help hospitals record appointments, prescriptions, and their stock of medicines. This web application has various feature that differs according to the user's role (Admin, Doctor, Patient, and Pharmacists).
 
-| NPM | Nama Lengkap | Fitur yang akan diselesaikan  |
+Tech Stack : Springboot
+
+
+--- 
+**Phase 1 Feature Contract**
+
+| NPM | Name | Features to be Completed  |
 | ----------| --- | ---------- | 
 | 2006483031 | Raihansyah Yoga Adhitama | 1 2 3 |
 | 2006464423 | Dominikus Kern Bunardi  | 14 |
@@ -18,9 +24,9 @@
 | 2006482773 | Alfina Azaria | 5 |
 
 ---
-**Kontrak Tahap 2 Tugas Akhir**
+**Phase 2 Feature Contract**
 
-| NPM | Nama Lengkap | Fitur yang akan diselesaikan  |
+| NPM | Name | Features to be Completed  |
 | ----------| --- | ---------- | 
 | 2006483031 | Raihansyah Yoga Adhitama | 4 |
 | 2006464423 | Dominikus Kern Bunardi  | 15 |
@@ -29,9 +35,9 @@
 | 2006482773 | Alfina Azaria | 9 |
 
 ---
-**Kontrak Tahap 3 Tugas Akhir**
+**Phase 3 Feature Contract**
 
-| NPM | Nama Lengkap | Fitur yang akan diselesaikan  |
+| NPM | Name | Features to be Completed  |
 | ----------| --- | ---------- | 
 | 2006483031 | Raihansyah Yoga Adhitama | 10 21(BarChart) |
 | 2006464423 | Dominikus Kern Bunardi  | 12 21(Line Chart)|
