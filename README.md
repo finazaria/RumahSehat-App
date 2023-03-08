@@ -1,10 +1,4 @@
 # [CSIM603026] Enterprise Application Programming Final Group Assignment
-## Authors
-* **Raihansyah Yoga Adhitama** - *2006483031* - *B*
-* **Dominikus Kern Bunardi** - *2006464423* - *B*
-* **Hilmi Al Biruni** - *2006463843* - *B*
-* **Ahmad Aminullah Alfiyanto** - *1906399064* - *B*
-* **Alfina Azaria** - *2006482773* - *B*
 
 ## About
 RumahSehat is a web application that can help hospitals record appointments, prescriptions, and their stock of medicines. This web application has various feature that differs according to the user's role (Admin, Doctor, Patient, and Pharmacists).
@@ -12,8 +6,16 @@ RumahSehat is a web application that can help hospitals record appointments, pre
 Tech Stack : Springboot
 
 
+### Authors
+* **Raihansyah Yoga Adhitama** - *2006483031* - *B*
+* **Dominikus Kern Bunardi** - *2006464423* - *B*
+* **Hilmi Al Biruni** - *2006463843* - *B*
+* **Ahmad Aminullah Alfiyanto** - *1906399064* - *B*
+* **Alfina Azaria** - *2006482773* - *B*
+
 --- 
-**Phase 1 Feature Contract**
+## Group's Feature Contract
+**Phase 1**
 
 | NPM | Name | Features to be Completed  |
 | ----------| --- | ---------- | 
@@ -24,7 +26,7 @@ Tech Stack : Springboot
 | 2006482773 | Alfina Azaria | 5 |
 
 ---
-**Phase 2 Feature Contract**
+**Phase 2**
 
 | NPM | Name | Features to be Completed  |
 | ----------| --- | ---------- | 
@@ -35,7 +37,7 @@ Tech Stack : Springboot
 | 2006482773 | Alfina Azaria | 9 |
 
 ---
-**Phase 3 Feature Contract**
+**Phase 3**
 
 | NPM | Name | Features to be Completed  |
 | ----------| --- | ---------- | 
